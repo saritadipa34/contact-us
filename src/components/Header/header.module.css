@@ -1,5 +1,18 @@
-.Header{
-    height: 100px;
-    width: 100vw;
-    background-color: green;
+
+
+
+
+.header img{
+    height: 50px;
+    width: 200px;
+    mix-blend-mode: multiply;
+    margin: 15px;
+
+}
+
+.header ul{
+    display: flex;
+    gap: 25px;
+    padding: 30px;
+
 }
