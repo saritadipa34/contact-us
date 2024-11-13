@@ -1,0 +1,18 @@
+.form{
+    padding-inline: 150px;
+}
+
+.btn {
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    gap: 35px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+
+
+

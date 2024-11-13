@@ -1,0 +1,12 @@
+.heading {
+    padding-inline: 150px;
+    padding-block: 50px;
+}
+
+h1{
+    margin-block: 15px;
+}
+
+.heading p{
+    line-height: 1.8;
+}
