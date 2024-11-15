@@ -1,9 +1,9 @@
 .heading {
     padding-inline: 150px;
-    padding-block: 50px;
 }
 
 h1{
+    text-align: center;
     margin-block: 15px;
 }
 

@@ -5,10 +5,16 @@
 }
 
 .container{
-    height: 80px;
+    height: 40px;
     width: 100vw;
     display: flex;
     justify-content: space-between;
-   
-    background-color: antiquewhite;
+    padding-inline: 50px;
 }
+
+main{
+    height: calc(694px-80px);
+    
+}
+
+

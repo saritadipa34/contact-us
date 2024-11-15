@@ -1,18 +1,20 @@
 
-
-
-
 .header img{
-    height: 50px;
+    height: 100px;
     width: 200px;
     mix-blend-mode: multiply;
-    margin: 15px;
+    margin: 0;
 
+}
+
+.image{
+    height: 100px;
+    width: 100px;
 }
 
 .header ul{
     display: flex;
     gap: 25px;
-    padding: 30px;
-
+    padding: 15px;
+list-style-type: none;
 }
